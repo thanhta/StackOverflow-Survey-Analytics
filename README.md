@@ -30,7 +30,7 @@ There is one notebook in the repository that goes through analysis related to th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the blog available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the blog available [here](https://medium.com/@thanhta2010/do-you-know-it-professionals-for-both-males-and-females-in-us-got-paid-much-better-comparing-with-e0a4e16187a8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
