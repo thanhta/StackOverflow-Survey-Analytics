@@ -1,4 +1,4 @@
-# Test
+
 # StackOverflow-Survey-Analytics
 To analyze data from the StackOverflow Survey in 2017 and try to answer six questions using CRISP-DM process
 
